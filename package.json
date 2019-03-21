@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "colors": "^1.1.2",
-    "exec-php": "0.0.3",
+    "exec-php": "git://github.com/jorgemurta/exec-php.git#master",
     "trim": "0.0.1",
     "lodash": "^4.0.0",
     "@frctl/fractal": "^1.0.0-rc.1"
